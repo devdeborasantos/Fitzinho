@@ -1,0 +1,13 @@
+Durante o curso fornecido pela DIO aprendi sobre como criar um Copilot no Microsoft 365, e achei bem interessante porque existem várias formas de fazer isso, dependendo do quanto você quer personalizar ou da sua experiência com tecnologia. A primeira coisa que você precisa fazer é se conectar com uma conta no Microsoft 365, porque sem estar logado, você não consegue acessar os recursos pra criar um Copilot.
+
+Depois disso, você tem algumas opções. Uma delas é criar um Copilot baseado em um modelo. Essa é bem prática porque você já começa com uma estrutura pronta, só precisa ajustar algumas coisas e já está funcionando. É bom pra quem não quer perder tempo ou ainda não sabe exatamente como montar tudo do zero. Mas até o momento tem a limitação de ser criado em inglês, embora possa adicionar o idioma português. 
+
+Outra opção bem legal é criar um Copilot baseado em uma descrição com IA. Você escreve, por exemplo, “quero um assistente que ajude a esclarecer sobre regras para tirar passaporte brasileiro”, e a inteligência artificial entende isso e monta algo pra você automaticamente. Muito útil pra quem tem uma ideia, mas não sabe programar ou criar a lógica por trás.
+
+E por fim, tem a opção de criar um Copilot em branco. Essa é a mais livre de todas. Você começa do zero mesmo, sem modelo nem sugestão, e constrói tudo do jeito que quiser. Claro que dá mais trabalho, mas também permite fazer algo bem personalizado. Eu acho que essa é mais voltada pra quem já entende melhor como funciona o sistema ou quer fazer algo muito específico. Para criar o Agente Fitizinho eu escolhi essa opção, pois queria personalizar do meu modo.
+
+No geral, achei legal que eles dão várias formas de começar, desde o mais fácil até o mais avançado. Dá pra ir aprendendo aos poucos e escolhendo o caminho que faz mais sentido pra você.
+
+---
+
+Link para o Agente Copilot Fitzinho: https://teams.microsoft.com/l/app/f6405520-7907-4464-8f6e-9889e2fb7d8f?templateInstanceId=ee2283e8-48eb-4087-a5b7-c43e9351e3ee&environment=Default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f 
