@@ -1,0 +1,12 @@
+Resumo dos Tópicos do Microsoft Copilot Studio
+Criar um Copilot em branco
+Permite iniciar um chatbot do zero, sem fluxos ou configurações pré-definidas. Ideal para quem quer total controle sobre a lógica, os tópicos e o comportamento do bot desde o início.
+
+Customizar um tópico
+Dá a opção de personalizar a conversa em um tópico específico, ajustando perguntas, condições, variáveis e respostas para melhor atender ao objetivo do usuário.
+
+Personalizar uma mensagem de erro de tópico
+Permite alterar a mensagem exibida quando o bot não entende ou não consegue continuar um fluxo. Isso melhora a experiência do usuário ao oferecer respostas mais amigáveis e direcionadas.
+
+Aumentar e diminuir a qualidade da resposta com GenAI
+Oferece controle sobre a qualidade e sofisticação das respostas geradas pela IA (GenAI). Você pode escolher se quer uma resposta mais direta ou mais elaborada, dependendo do contexto e da necessidade do usuário.
